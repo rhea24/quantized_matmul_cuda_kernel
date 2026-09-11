@@ -1,4 +1,4 @@
-## Int8 Quantized Inference Engine
+## Int8 Quantized CUDA Kernel
 
 A custom C++/CUDA extension for PyTorch that performs high-speed matrix multiplication (GEMM) using Int8 precision.
 
